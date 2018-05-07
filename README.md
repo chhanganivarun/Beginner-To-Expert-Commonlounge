@@ -1,4 +1,5 @@
-# github-move
+# Beginner To Expert Commonlounge
+
 This is for getting all the solutions to Commonlounge's Beginner to Expert Algorithm Programme.
 <br>
 This Repo doesn't require much conrtibution and all. This is just a personal repo for learning to get through _GitHub_ flow.

@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 	int currdpos=0,maxdpos=0,maxd=0,flag=0,currd=0,maxlen=0,currlen=0,maxlpos=0,temp=0;
+	
 	int n;
 	cin>>n;
 	for(int i=0;i<n;i++)
